@@ -10,7 +10,7 @@ h1{
     border:2px solid;
     margin-left: 200px;
     margin-right: 200px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
 }
 #text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -34,3 +34,16 @@ li {
     box-shadow: 37px 12px 72px 10px rgba(0,0,0,0.75);
 }
 
+#footer {
+    background-color: black;
+    padding-top: 3px;
+    margin-top:20px;
+    padding-bottom: 3px;
+}
+#xd {
+    padding-bottom: 10px;
+    color:brown;
+}
+.title {
+    color: white;
+}
