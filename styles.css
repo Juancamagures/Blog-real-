@@ -23,6 +23,7 @@ li {
     padding-left:100px;
     padding-right: 100px;
     color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #list {
     background-color:darkblue;
@@ -32,3 +33,4 @@ li {
     -moz-box-shadow: 37px 12px 72px 10px rgba(0,0,0,0.75);
     box-shadow: 37px 12px 72px 10px rgba(0,0,0,0.75);
 }
+
