@@ -2,6 +2,9 @@
 Soy Juan Camilo y quiero utilizar este blog para lograr todas mis metas y hasta aqui tener mi propio portafolio.
 - Este repositorio contiene un archivo .html 
 - Un archivo css 
+- Creado por Juan Camilo
+- Apto para todas las edades
+- Family friendly 
 
 ## Aqui una frase de una persona que me inspira
 Un basquetbolista que tiene varias ensenanzas interesantes
